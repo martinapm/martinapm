@@ -1,13 +1,7 @@
-<!-- GitHub README for Martina Pérez Muñoz -->
+<!-- GitHub README for Martina Pérez -->
 
-<h1 align="center" style="color:#3b0808;">✨ Martina ✨</h1>
+<h1 align="center" style="color:#3b0808;">✨Hi, I'm Martina✨</h1>
 <h3 align="center">Web Developer | Information & Documentation Specialist</h3>
-
-<p align="center">
-  <a href="mailto:martinapm99620@gmail.com"><img src="https://img.shields.io/badge/Email-3b0808?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/martinaperezmuñoz/"><img src="https://img.shields.io/badge/LinkedIn-3b0808?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 ---
 
 ## 🌸 About Me
