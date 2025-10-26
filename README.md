@@ -28,9 +28,9 @@
 
 ## 🌹 Personal Values
 
-🎀 **Responsibility** — I approach each project with structure and commitment.  
-🌌 **Cooperation** — I believe in collaborative growth and shared learning.  
-🎆 **Creativity** — I blend design aesthetics with technical clarity.  
+🎀 **Responsibility** — I approach each project with structure and commitment   
+🌌 **Cooperation** — I believe in collaborative growth and shared learning   
+🎆 **Creativity** — I blend design aesthetics with technical clarity   
 
 
 ---
