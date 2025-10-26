@@ -20,17 +20,17 @@
 </p>
 
 **Additional tools and technologies:**
-- 🧩 ABSYSNET (SaaS), ALFRESCO, Drupal, Access, Excel, Protégé
-- ⚙️ StarUML, XAMPP, Microsoft Dynamics 365, PL/SQL, JDBC, Swing  
-- ☁️ Familiar with data modeling, information retrieval, and digital archiving systems  
+🧩 ABSYSNET (SaaS), ALFRESCO, Drupal, Access, Excel, Protégé
+⚙️ StarUML, XAMPP, Microsoft Dynamics 365, PL/SQL, JDBC, Swing  
+☁️ Familiar with data modeling, information retrieval, and digital archiving systems  
 
 ---
 
 ## 🌹 Personal Values
 
-- **Responsibility** — I approach each project with structure and commitment.  
-- **Cooperation** — I believe in collaborative growth and shared learning.  
-- **Creativity** — I blend design aesthetics with technical clarity.  
+🎀 **Responsibility** — I approach each project with structure and commitment.  
+🌌 **Cooperation** — I believe in collaborative growth and shared learning.  
+🎆 **Creativity** — I blend design aesthetics with technical clarity.  
 
 
 ---
