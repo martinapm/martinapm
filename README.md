@@ -20,8 +20,8 @@
 </p>
 
 **Additional tools and technologies:**
-🧩 ABSYSNET (SaaS), ALFRESCO, Drupal, Access, Excel, Protégé
-⚙️ StarUML, XAMPP, Microsoft Dynamics 365, PL/SQL, JDBC, Swing  
+🧩 ABSYSNET (SaaS), ALFRESCO, Drupal, Access, Excel, Protégé                                                        
+⚙️ StarUML, XAMPP, Microsoft Dynamics 365, PL/SQL, JDBC, Swing                                                            
 ☁️ Familiar with data modeling, information retrieval, and digital archiving systems  
 
 ---
