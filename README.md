@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=ai,angular,azure,cassandra,cloudflare,css,discord,figma,git,github,gmail,html,idea,java,jquery,js,linkedin,linux,maven,mongodb,mysql,nodejs,notion,php,postgres,postman,powershell,py,r,raspberrypi,sublime,twitter,ubuntu,visualstudio,vscode,windows,wordpress" />
 </p>
 
-**Additional tools and technologies:**
+**Additional tools and technologies:**                                                                 
 🧩 ABSYSNET (SaaS), ALFRESCO, Drupal, Access, Excel, Protégé                                                        
 ⚙️ StarUML, XAMPP, Microsoft Dynamics 365, PL/SQL, JDBC, Swing                                                            
 ☁️ Familiar with data modeling, information retrieval, and digital archiving systems  
