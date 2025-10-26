@@ -13,6 +13,7 @@
 ## 🌸 About Me
 
 🎇I am a student of the Higher Degree in Web Application Development, with previous university training in Information and Documentation. 
+
 💻I am passionate about technology and creating digital solutions that combine functionality, design and good information management.
 
 ---
