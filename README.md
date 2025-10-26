@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- GitHub README for Martina Pérez Muñoz -->
 
-<!--
-**martinapm/martinapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#3b0808;">✨ Martina ✨</h1>
+<h3 align="center">Web Developer | Information & Documentation Specialist</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:martinapm99620@gmail.com"><img src="https://img.shields.io/badge/Email-3b0808?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/martinaperezmuñoz/"><img src="https://img.shields.io/badge/LinkedIn-3b0808?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+🎇I am a student of the Higher Degree in Web Application Development, with previous university training in Information and Documentation. 
+💻I am passionate about technology and creating digital solutions that combine functionality, design and good information management.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,angular,azure,cassandra,cloudflare,css,discord,figma,git,github,gmail,html,idea,java,jquery,js,linkedin,linux,maven,mongodb,mysql,nodejs,notion,php,postgres,postman,powershell,py,r,raspberrypi,sublime,twitter,ubuntu,visualstudio,vscode,windows,wordpress" />
+</p>
+
+**Additional tools and technologies:**
+- 🧩 ABSYSNET (SaaS), ALFRESCO, Drupal, Access, Excel, Protégé
+- ⚙️ StarUML, XAMPP, Microsoft Dynamics 365, PL/SQL, JDBC, Swing  
+- ☁️ Familiar with data modeling, information retrieval, and digital archiving systems  
+
+---
+
+## 🌹 Personal Values
+
+- **Responsibility** — I approach each project with structure and commitment.  
+- **Cooperation** — I believe in collaborative growth and shared learning.  
+- **Creativity** — I blend design aesthetics with technical clarity.  
+
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&title_color=3b0808&icon_color=711e1e&text_color=5a3a3a&bg_color=b18f8f&border_color=5a3a3a" />
+  <br><br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&title_color=3b0808&text_color=5a3a3a&bg_color=b18f8f&border_color=5a3a3a" />
+</p>
+
+---
+
+
+<p align="center" style="color:#3b0808;">
+  ⭐Crafted by Martina⭐
+</p>
+
+---
