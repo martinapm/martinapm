@@ -38,9 +38,9 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="http://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&title_color=3b0808&icon_color=711e1e&text_color=5a3a3a&bg_color=b18f8f&border_color=5a3a3a" />
+  <img width="48%" src="http://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&title_color=3b0808&icon_color=711e1e&text_color=5a3a3a&bg_color=b18f8f&border_color=5a3a3a&cache_seconds=1800" />
   <br><br>
-  <img width="48%" src="http://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&title_color=3b0808&text_color=5a3a3a&bg_color=b18f8f&border_color=5a3a3a" />
+  <img width="48%" src="http://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&title_color=3b0808&text_color=5a3a3a&bg_color=b18f8f&border_color=5a3a3a&cache_seconds=1800" />
 </p>
 
 ---
