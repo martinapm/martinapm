@@ -32,19 +32,17 @@
 🌌 **Cooperation** — I believe in collaborative growth and shared learning   
 🎆 **Creativity** — I blend design aesthetics with technical clarity   
 
-
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada&icon_color=8b1e1e" />
   <br><br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada" />
 </p>
 
 ---
-
 
 <p align="center" style="color:#3b0808;">
   ⭐Crafted by Martina⭐
