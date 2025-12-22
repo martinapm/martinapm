@@ -16,7 +16,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,angular,azure,cassandra,cloudflare,css,discord,figma,git,github,gmail,html,idea,java,jquery,js,linkedin,linux,maven,mongodb,mysql,nodejs,notion,php,postgres,postman,powershell,py,r,raspberrypi,sublime,twitter,ubuntu,visualstudio,vscode,windows,wordpress" />
+  <img src="https://skillicons.dev/icons?i=ai,angular,azure,cassandra,cloudflare,css,discord,figma,git,github,gmail,html,idea,java,jquery,js,linkedin,linux,maven,mongodb,mysql,nodejs,notion,php,postgres,postman,powershell,py,r,raspberrypi,sublime,tailwind,twitter,ubuntu,visualstudio,vscode,windows,wordpress" />
 </p>
 
 **Additional tools and technologies:**                                                                 
