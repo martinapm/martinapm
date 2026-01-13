@@ -37,17 +37,11 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada&icon_color=8b1e1e"
-    width="450"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=martinapm&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada"
-    width="450"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=martinapm&layout=compact&theme=dark" />
 </p>
 
 
