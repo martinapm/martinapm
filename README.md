@@ -37,9 +37,30 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada&icon_color=8b1e1e&cache_seconds=1800&random=1" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=martinapm&show_icons=true&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada&icon_color=8b1e1e&include_all_commits=true&count_private=true&custom_title=Estadísticas%20de%20GitHub&hide_border=true&disable_animations=false&cache_seconds=600&random=__RANDOM__" alt="Estadísticas de GitHub" />
+  
   <br><br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada&cache_seconds=1800&random=1" />
+  
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinapm&layout=compact&bg_color=2b0a0a&title_color=8b1e1e&text_color=f5dada&hide_border=true&langs_count=8&exclude_repo=github-readme-stats&cache_seconds=600&random=__RANDOM__" alt="Lenguajes más usados" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=martinapm&color=8b1e1e&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/martinapm?color=8b1e1e&style=flat-square" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/martinapm?color=8b1e1e&style=flat-square" alt="Estrellas totales" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/martinapm?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/martinapm?color=8b1e1e&style=flat-square" alt="Repositorios totales" />
+  </a>
+  <a href="https://github.com/martinapm?tab=repositories">
+    <img src="https://badges.strrl.dev/commits/annual/martinapm?color=8b1e1e&style=flat-square" alt="Commits anuales" />
+  </a>
 </p>
 
 ---
