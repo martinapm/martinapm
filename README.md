@@ -211,17 +211,17 @@
 <br>
  
 <a href="https://github.com/martinapm">
-  <img height="170" src="https://github-readme-stats-fast-nine.vercel.app/api?username=martinapm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a0a0&icon_color=a35c6e&text_color=f5e6e8&ring_color=6b2d3e" alt="Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/martinapm">
-  <img height="170" src="https://github-readme-stats-fast-nine.vercel.app/api/top-langs/?username=martinapm&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a0a0&text_color=f5e6e8&langs_count=8" alt="Languages"/>
+  <img src="https://streak-stats.demolab.com?user=martinapm&hide_border=true&background=0D1117&stroke=6b2d3e&ring=a35c6e&fire=d4a0a0&currStreakNum=f5e6e8&sideNums=f5e6e8&currStreakLabel=a35c6e&sideLabels=6b2d3e&dates=8a6070" width="60%" alt="Streak"/>
 </a>
  
 <br><br>
  
 <a href="https://github.com/martinapm">
-  <img src="https://streak-stats.demolab.com?user=martinapm&hide_border=true&background=0D1117&stroke=6b2d3e&ring=a35c6e&fire=d4a0a0&currStreakNum=f5e6e8&sideNums=f5e6e8&currStreakLabel=a35c6e&sideLabels=6b2d3e&dates=8a6070" width="60%" alt="Streak"/>
+  <img height="170" src="https://github-readme-stats-fast-nine.vercel.app/api?username=martinapm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a0a0&icon_color=a35c6e&text_color=f5e6e8&ring_color=6b2d3e" alt="Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/martinapm">
+  <img height="170" src="https://github-readme-stats-fast-nine.vercel.app/api/top-langs/?username=martinapm&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a0a0&text_color=f5e6e8&langs_count=8" alt="Languages"/>
 </a>
  
 </div>
@@ -230,7 +230,6 @@
  
 <!-- ═══════ PAC-MAN ═══════ -->
  
-
 <div align="center">
  
 ### ✦ &nbsp; My Contributions &nbsp; ✦
@@ -246,7 +245,6 @@
 </div>
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,25:3b0808,50:6b2d3e,75:a35c6e,100:d4a0a0&height=2" width="100%"/>
-
  
 <!-- ═══════ FOOTER ═══════ -->
  
