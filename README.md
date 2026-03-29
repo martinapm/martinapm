@@ -211,11 +211,11 @@
 <br>
  
 <a href="https://github.com/martinapm">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=martinapm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a0a0&icon_color=a35c6e&text_color=f5e6e8&ring_color=6b2d3e" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats-fast-nine.vercel.app/api?username=martinapm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=d4a0a0&icon_color=a35c6e&text_color=f5e6e8&ring_color=6b2d3e" alt="Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/martinapm">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=martinapm&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a0a0&text_color=f5e6e8&langs_count=8" alt="Languages"/>
+  <img height="170" src="https://github-readme-stats-fast-nine.vercel.app/api/top-langs/?username=martinapm&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a0a0&text_color=f5e6e8&langs_count=8" alt="Languages"/>
 </a>
  
 <br><br>
@@ -253,3 +253,4 @@
 <br>
  
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d4a0a0,25:a35c6e,50:6b2d3e,75:3b0808,100:1a0505&height=100&section=footer&text=✦%20Crafted%20by%20Martina%20✦&fontSize=16&fontColor=f5e6e8&fontAlignY=50&animation=twinkling" width="100%"/>
+ 
