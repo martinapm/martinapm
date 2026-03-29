@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-martinapm-f5e6e8?style=for-the-badge&logo=vercel&logoColor=1a0505&labelColor=6b2d3e)](https://martinapm-portfolioweb.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina%20P.-f5e6e8?style=for-the-badge&logo=linkedin&logoColor=1a0505&labelColor=6b2d3e)](https://www.linkedin.com/in/martinaperezmu%C3%B1oz)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20me-f5e6e8?style=for-the-badge&logo=gmail&logoColor=1a0505&labelColor=6b2d3e)](mailto:martina.perezmunoz.st@emeal.nttdata.com)
  
 </div>
  
@@ -251,4 +253,3 @@
 <br>
  
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d4a0a0,25:a35c6e,50:6b2d3e,75:3b0808,100:1a0505&height=100&section=footer&text=✦%20Crafted%20by%20Martina%20✦&fontSize=16&fontColor=f5e6e8&fontAlignY=50&animation=twinkling" width="100%"/>
- 
