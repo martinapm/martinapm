@@ -41,6 +41,12 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/%20%20Responsible%20%20-a35c6e?style=for-the-badge" height="34"/>
  
+<br><br>
+ 
+<!-- COUNTER:START -->
+[![Days active](https://img.shields.io/badge/Active%20since%20Mar%2020%2C%202025-Day%201-f5e6e8?style=for-the-badge&labelColor=6b2d3e&color=1a0505)](https://github.com/martinapm)
+<!-- COUNTER:END -->
+ 
 </div>
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d4a0a0,25:a35c6e,50:6b2d3e,75:3b0808,100:1a0505&height=2" width="100%"/>
