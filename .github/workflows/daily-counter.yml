@@ -1,4 +1,4 @@
-ame: Daily streak — update counter
+name: Daily streak — update counter
 
 on:
   schedule:
