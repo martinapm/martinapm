@@ -2,8 +2,8 @@ name: Daily streak — update counter
 
 on:
   schedule:
-    - cron: '11 1 * * *'   
-  workflow_dispatch:        
+    - cron: '11 1 * * *'
+  workflow_dispatch:
 
 jobs:
   update-counter:
@@ -13,25 +13,36 @@ jobs:
 
       - name: Calculate day counter and update README
         run: |
-          START_DATE="2025-03-20"
-          TODAY=$(date -u +%Y-%m-%d)
-          DAY_COUNT=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 + 1 ))
-          FORMATTED_TODAY=$(date -u +"%b %d, %Y")
+          python3 - <<'EOF'
+          from datetime import date
 
-          NEW_BADGE="[![Days active](https://img.shields.io/badge/Active%20since%20Mar%2020%2C%202025-Day%20${DAY_COUNT}-f5e6e8?style=for-the-badge&labelColor=6b2d3e&color=1a0505)](https://github.com/martinapm)"
+          start = date(2025, 3, 20)
+          today = date.today()
+          day = (today - start).days + 1
 
-          # Reemplaza la línea del badge entre los marcadores
-          sed -i "/<!-- COUNTER:START -->/,/<!-- COUNTER:END -->/{
-            /<!-- COUNTER:START -->/{
-              n
-              s|.*|${NEW_BADGE}|
-            }
-          }" README.md
+          badge = f'[![Days active](https://img.shields.io/badge/Active%20since%20Mar%2020%2C%202025-Day%20{day}-f5e6e8?style=for-the-badge&labelColor=6b2d3e&color=1a0505)](https://github.com/martinapm)'
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          import re
+          new_content = re.sub(
+              r'<!-- COUNTER:START -->.*?<!-- COUNTER:END -->',
+              f'<!-- COUNTER:START -->\n{badge}\n<!-- COUNTER:END -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+
+          print(f"Updated to Day {day}")
+          EOF
 
       - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: day counter update $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "README.md"
           git push
