@@ -2,14 +2,14 @@ name: Daily streak — update counter
 
 on:
   schedule:
-    - cron: '5 0 * * *'   # cada día a las 00:05 UTC
-  workflow_dispatch:        # también se puede lanzar a mano desde Actions
+    - cron: '11 1 * * *'   
+  workflow_dispatch:        
 
 jobs:
   update-counter:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Calculate day counter and update README
         run: |
