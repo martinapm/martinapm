@@ -11,6 +11,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
