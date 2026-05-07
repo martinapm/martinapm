@@ -219,7 +219,7 @@
 <br>
  
 <a href="https://github.com/martinapm">
-  <img src="https://streak-stats.demolab.com?user=martinapm&hide_border=true&background=0D1117&stroke=6b2d3e&ring=a35c6e&fire=d4a0a0&currStreakNum=f5e6e8&sideNums=f5e6e8&currStreakLabel=a35c6e&sideLabels=6b2d3e&dates=8a6070" width="60%" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=martinapm&hide_border=true&background=0D1117&stroke=6b2d3e&ring=a35c6e&fire=d4a0a0&currStreakNum=f5e6e8&sideNums=f5e6e8&currStreakLabel=a35c6e&sideLabels=6b2d3e&dates=8a6070" width="60%" alt="Streak"/>
 </a>
  
 <br><br>
