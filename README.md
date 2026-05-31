@@ -182,8 +182,8 @@
       <br><br>
     </td>
     <td align="center" width="50%">
-      <br>
-      <img src="https://img.shields.io/badge/ranKiA--Log-IN%20PROGRESS-f5e6e8?style=for-the-badge&labelColor=a35c6e" alt="RankIA-Log"/>
+<br>
+      <img src="https://img.shields.io/badge/ranKiA--Log-COMPLETED-f5e6e8?style=for-the-badge&labelColor=6b2d3e" alt="RankIA-Log"/>
       <br><br>
       Final degree project built in collaboration.
       <br>
@@ -196,7 +196,9 @@
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <br><br>
-      <img src="https://img.shields.io/badge/coming%20soon-6b2d3e?style=flat-square" alt="Coming soon"/>
+      <a href="https://github.com/martinapm/rankia-log">
+        <img src="https://img.shields.io/badge/✦%20view%20repository%20✦-6b2d3e?style=flat-square" alt="View repository"/>
+      </a>
       <br><br>
     </td>
   </tr>
