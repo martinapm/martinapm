@@ -242,7 +242,7 @@
 
 <div align="center">
 
-### ✦ &nbsp; My Contributions &nbsp; ✦
+### ✦ &nbsp; A Rose in Progress &nbsp; ✦
 
 <img src="assets/spirograph.svg" width="75%" alt="Daily spirograph · one petal a day"/>
 
