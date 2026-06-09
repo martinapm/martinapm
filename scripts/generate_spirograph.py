@@ -10,7 +10,7 @@ import calendar
 import datetime
 from pathlib import Path
 
-# ── Parámetros del espirógrafo — rosa de 5 pétalos ─────────────
+# ── Parámetros del espirógrafo — rosa de 5 pétalos ──
 R, r, d  = 5, 2, 5
 PERIOD   = 4 * math.pi
 N        = 1500
@@ -50,7 +50,7 @@ def build_path(pts):
         for j, p in enumerate(pts)
     )
 
-# ── Calcular progreso según el mes actual ───────────────────────
+# ── Calcular progreso según el mes actual ──
 today        = datetime.date.today()
 CYCLE_DAYS   = calendar.monthrange(today.year, today.month)[1]
 day_in_cycle = today.day
@@ -60,11 +60,11 @@ month_name   = today.strftime("%B").lower()
 
 print(f"Mes: {month_name} ({CYCLE_DAYS} días) | Día {day_in_cycle}/{CYCLE_DAYS} ({round(progress*100)}%)")
 
-# ── Generar puntos ───────────────────────────────────────────────
+# ── Generar puntos ──
 points = [spiro_point((i / N) * PERIOD) for i in range(N + 1)]
 tip    = points[min(visible_n, N)]
 
-# ── Construir SVG ────────────────────────────────────────────────
+# ── Construir SVG ──
 CHUNK = 8
 lines = []
 
