@@ -11,7 +11,7 @@ from pathlib import Path
  
 # ── Configuración ───────────────────────────────────────────────
 START_DATE  = datetime.date(2025, 3, 20)   
-CYCLE_DAYS  = 30                          
+CYCLE_DAYS  = calendar.monthrange(today.year, today.month)[1]                          
  
 # Parámetros del espirógrafo — rosa de 5 pétalos
 #   R=5, r=2, d=5  →  periodo = 4π  →  5 lazos exteriores
