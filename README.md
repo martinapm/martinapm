@@ -247,9 +247,9 @@
 <br>
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinapm/martinapm/output/tetris-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinapm/martinapm/output/tetris-contribution-graph.svg">
-  <img alt="tetris contribution graph" src="https://raw.githubusercontent.com/martinapm/martinapm/output/tetris-contribution-graph.svg" width="95%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinapm/martinapm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinapm/martinapm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/martinapm/martinapm/output/pacman-contribution-graph.svg" width="95%">
 </picture>
  
 </div>
