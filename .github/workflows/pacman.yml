@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: martinapm
           outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=f5e6e8&color_dots[]=1a0505&color_dots[]=3b0808&color_dots[]=6b2d3e&color_dots[]=a35c6e&color_dots[]=d4a0a0
-            dist/pacman-contribution-graph-dark.svg?color_snake=f5e6e8&color_dots[]=1a0505&color_dots[]=3b0808&color_dots[]=6b2d3e&color_dots[]=a35c6e&color_dots[]=d4a0a0&color_bg=0d1117
+            dist/pacman-contribution-graph.svg?color_snake=%23f5e6e8&color_dots[0]=%231a0505&color_dots[1]=%233b0808&color_dots[2]=%236b2d3e&color_dots[3]=%23a35c6e&color_dots[4]=%23d4a0a0
+            dist/pacman-contribution-graph-dark.svg?color_snake=%23f5e6e8&color_dots[0]=%231a0505&color_dots[1]=%233b0808&color_dots[2]=%236b2d3e&color_dots[3]=%23a35c6e&color_dots[4]=%23d4a0a0&color_bg=%230d1117
           game: pacman
 
       - uses: crazy-max/ghaction-github-pages@v3
