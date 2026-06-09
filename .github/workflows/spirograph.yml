@@ -1,0 +1,32 @@
+name: Daily Spirograph
+ 
+on:
+  schedule:
+    - cron: '0 1 * * *'    
+  workflow_dispatch:        
+ 
+jobs:
+  update-spirograph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+ 
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+ 
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+ 
+      - name: Generar SVG del día
+        run: python scripts/generate_spirograph.py
+ 
+      - name: Commit y push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add assets/spirograph.svg
+          git diff --staged --quiet || git commit -m "chore: spirograph — día $(date +%j)/365"
+          git push
