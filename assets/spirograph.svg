@@ -147,9 +147,15 @@
     <path d="M264.5,176.5 L265.2,174.8 L266.0,173.1 L266.7,171.4 L267.4,169.7 L268.1,168.0 L268.8,166.3 L269.5,164.7 L270.2,163.0" stroke="rgb(105, 43, 60)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M270.2,163.0 L270.8,161.3 L271.5,159.6 L272.1,157.9 L272.7,156.2 L273.3,154.5 L273.9,152.9 L274.4,151.2 L275.0,149.5" stroke="rgb(106, 44, 61)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M275.0,149.5 L275.5,147.8 L276.0,146.2 L276.5,144.5 L277.0,142.8 L277.5,141.2 L277.9,139.5 L278.4,137.9 L278.8,136.2" stroke="rgb(107, 45, 62)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M278.8,136.2 L279.2,134.6 L279.6,133.0 L280.0,131.3 L280.3,129.7 L280.7,128.1 L281.0,126.5 L281.4,124.9 L281.7,123.3" stroke="rgb(108, 45, 62)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M281.7,123.3 L281.9,121.7 L282.2,120.1 L282.5,118.5 L282.7,117.0 L282.9,115.4 L283.2,113.9 L283.4,112.3 L283.5,110.8" stroke="rgb(109, 46, 63)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M283.5,110.8 L283.7,109.3 L283.9,107.7 L284.0,106.2 L284.1,104.7 L284.2,103.2 L284.3,101.8 L284.4,100.3 L284.4,98.8" stroke="rgb(111, 47, 64)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M284.4,98.8 L284.5,97.4 L284.5,95.9 L284.5,94.5 L284.5,93.1 L284.5,91.7 L284.5,90.3 L284.5,88.9 L284.4,87.5" stroke="rgb(112, 47, 65)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M284.4,87.5 L284.3,86.2 L284.2,84.8 L284.1,83.5 L284.0,82.2 L283.9,80.9 L283.8,79.6 L283.6,78.3 L283.4,77.0" stroke="rgb(114, 48, 66)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M283.4,77.0 L283.2,75.8 L283.0,74.5 L282.8,73.3 L282.6,72.1 L282.3,70.9 L282.1,69.7 L281.8,68.5 L281.5,67.4" stroke="rgb(115, 48, 67)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <circle cx="277.0" cy="142.8" r="10" fill="#f5e6e8" opacity="0.05"/>
-  <circle cx="277.0" cy="142.8" r="5"  fill="#f5e6e8" opacity="0.15"/>
-  <circle cx="277.0" cy="142.8" r="2.2" fill="#ffffff" opacity="0.9"/>
-  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#3b0808" letter-spacing="2">june · day 10/30 · 33% complete</text>
+  <circle cx="282.1" cy="69.7" r="10" fill="#f5e6e8" opacity="0.05"/>
+  <circle cx="282.1" cy="69.7" r="5"  fill="#f5e6e8" opacity="0.15"/>
+  <circle cx="282.1" cy="69.7" r="2.2" fill="#ffffff" opacity="0.9"/>
+  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#3b0808" letter-spacing="2">june · day 11/30 · 37% complete</text>
 </svg>
