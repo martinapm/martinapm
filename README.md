@@ -2,8 +2,8 @@
  
 <!-- ═══════ HEADER ═══════ -->
  
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0505,25:3b0808,50:6b2d3e,75:a35c6e,100:d4a0a0&height=130&text=Martina%20Perez&fontSize=44&fontColor=f5e6e8&fontAlignY=38&desc=Documentalist%20%7C%20Full%20Stack%20Developer&descColor=d4a0a0&descSize=15&descAlignY=65&animation=twinkling" width="100%"/>
- 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0505,25:3b0808,50:6b2d3e,75:a35c6e,100:d4a0a0&height=130&text=Martina%20Perez&fontSize=44&fontColor=f5e6e8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Documentalist&descColor=d4a0a0&descSize=15&descAlignY=65&animation=twinkling" width="100%"/>
+
 <div align="center">
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-martinapm-f5e6e8?style=for-the-badge&logo=vercel&logoColor=1a0505&labelColor=6b2d3e)](https://martinapm-portfolioweb.vercel.app/)
