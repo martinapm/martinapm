@@ -64,7 +64,7 @@
  
 | | Degree | Status |
 | :---: | :--- | :---: |
-| 🎓 | **Degree in Information and Documentation** — UGR | ✅ Completed |
+| 🎓 | **Information and Documentation** — UGR | ✅ Completed |
 | 📘 | **DAW** — Web Application Development | ✅ Completed |
 | 📗 | **DAM** — Multiplatform Application Development | 🔄 In progress |
  
