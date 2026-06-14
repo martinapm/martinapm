@@ -25,10 +25,12 @@
 </div>
  
 <br>
+
+<div align="center">
  
-> Curious by nature,
-> methodical by training,
-> developer by choice
+> &nbsp; Curious by nature, methodical by training, developer by choice &nbsp;
+
+</div>
  
 <br>
  
