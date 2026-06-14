@@ -62,13 +62,12 @@
 | | Degree | Status |
 | :---: | :--- | :---: |
 | 🎓 | **Degree in Information and Documentation** — UGR | ✅ Completed |
-| 📘 | **DAW** — Web Application Development | 🔄 In progress |
+| 📘 | **DAW** — Web Application Development | ✅ Completed |
 | 📗 | **DAM** — Multiplatform Application Development | 🔄 In progress |
  
 </div>
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,25:3b0808,50:6b2d3e,75:a35c6e,100:d4a0a0&height=2" width="100%"/>
- 
 <!-- ═══════ TECH STACK ═══════ -->
  
 <div align="center">
