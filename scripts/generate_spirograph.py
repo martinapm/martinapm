@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Genera el espirógrafo SVG para el README de @martinapm.
 La rosa empieza el día 1 de cada mes y se completa el último día.
@@ -94,7 +93,7 @@ lines.append(f'  <circle cx="{tx}" cy="{ty}" r="2.2" fill="#ffffff" opacity="0.9
 
 pct   = round(progress * 100)
 label = f"{month_name} · day {day_in_cycle}/{CYCLE_DAYS} · {pct}% complete"
-lines.append(f'  <text x="{SVG_SIZE // 2}" y="{SVG_SIZE - 10}" text-anchor="middle" font-family="monospace" font-size="9" fill="#3b0808" letter-spacing="2">{label}</text>')
+lines.append(f'  <text x="{SVG_SIZE // 2}" y="{SVG_SIZE - 10}" text-anchor="middle" font-family="monospace" font-size="9" fill="#d4a0a0" letter-spacing="2">{label}</text>')
 lines.append('</svg>')
 
 out = Path("assets/spirograph.svg")
