@@ -176,5 +176,5 @@
   <circle cx="171.3" cy="108.5" r="10" fill="#f5e6e8" opacity="0.05"/>
   <circle cx="171.3" cy="108.5" r="5"  fill="#f5e6e8" opacity="0.15"/>
   <circle cx="171.3" cy="108.5" r="2.2" fill="#ffffff" opacity="0.9"/>
-  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#3b0808" letter-spacing="2">june · day 14/30 · 47% complete</text>
+  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#d4a0a0" letter-spacing="2">june · day 14/30 · 47% complete</text>
 </svg>
