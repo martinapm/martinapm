@@ -26,8 +26,9 @@
  
 <br>
  
-> I am driven by building digital products where clean code, intentional design
-> and solid information architecture come together.
+> Curious by nature,
+> methodical by training,
+> developer by choice
  
 <br>
  
@@ -249,9 +250,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0505,25:3b0808,50:6b2d3e,75:a35c6e,100:d4a0a0&height=2" width="100%"/>
 
-<!-- ═══════ FOOTER ═══════ -->
- 
+<!-- ═══════ QUOTE ═══════ -->
+
 <br>
- 
+
+<div align="center">
+
+> ✶ &nbsp; Discipline is the key to success &nbsp; ✶
+
+</div>
+
+<br>
+
+<!-- ═══════ FOOTER ═══════ -->
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d4a0a0,25:a35c6e,50:6b2d3e,75:3b0808,100:1a0505&height=100&section=footer&text=✦%20Crafted%20by%20Martina%20✦&fontSize=16&fontColor=f5e6e8&fontAlignY=50&animation=twinkling" width="100%"/>
  
