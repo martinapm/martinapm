@@ -10,7 +10,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina%20P.-f5e6e8?style=for-the-badge&logo=linkedin&logoColor=1a0505&labelColor=6b2d3e)](https://www.linkedin.com/in/martinaperezmu%C3%B1oz)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-NTTData-f5e6e8?style=for-the-badge&logo=gmail&logoColor=1a0505&labelColor=6b2d3e)](mailto:martina.perezmunoz.st@emeal.nttdata.com)
+[![Email](https://img.shields.io/badge/Email-NTTData-f5e6e8?style=for-the-badge&logo=gmail&logoColor=1a0505&labelColor=6b2d3e)](mailto:martina.perezmunoz@emeal.nttdata.com)
  
 </div>
  
