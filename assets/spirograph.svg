@@ -236,9 +236,15 @@
     <path d="M62.1,91.6 L61.5,92.2 L60.9,92.8 L60.3,93.4 L59.7,94.0 L59.2,94.6 L58.6,95.2 L58.1,95.9 L57.6,96.5" stroke="rgb(216, 166, 167)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M57.6,96.5 L57.1,97.2 L56.7,97.9 L56.2,98.6 L55.8,99.3 L55.4,100.1 L55.0,100.8 L54.6,101.6 L54.3,102.3" stroke="rgb(217, 168, 169)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M54.3,102.3 L54.0,103.1 L53.6,103.9 L53.3,104.7 L53.1,105.5 L52.8,106.3 L52.6,107.1 L52.4,108.0 L52.2,108.8" stroke="rgb(218, 170, 171)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M52.2,108.8 L52.0,109.7 L51.8,110.6 L51.7,111.5 L51.5,112.4 L51.4,113.3 L51.4,114.2 L51.3,115.1 L51.2,116.0" stroke="rgb(219, 172, 173)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51.2,116.0 L51.2,117.0 L51.2,117.9 L51.2,118.9 L51.3,119.8 L51.3,120.8 L51.4,121.8 L51.5,122.8 L51.6,123.8" stroke="rgb(220, 174, 175)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51.6,123.8 L51.7,124.8 L51.9,125.8 L52.0,126.8 L52.2,127.8 L52.4,128.9 L52.7,129.9 L52.9,131.0 L53.2,132.0" stroke="rgb(221, 176, 177)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M53.2,132.0 L53.5,133.1 L53.8,134.1 L54.1,135.2 L54.5,136.3 L54.9,137.4 L55.2,138.5 L55.7,139.5 L56.1,140.6" stroke="rgb(223, 178, 179)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M56.1,140.6 L56.5,141.7 L57.0,142.8 L57.5,144.0 L58.0,145.1 L58.5,146.2 L59.1,147.3 L59.6,148.4 L60.2,149.5" stroke="rgb(224, 180, 181)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60.2,149.5 L60.8,150.7 L61.5,151.8 L62.1,152.9 L62.8,154.1 L63.4,155.2 L64.2,156.3 L64.9,157.5 L65.6,158.6" stroke="rgb(225, 181, 184)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <circle cx="54.0" cy="103.1" r="10" fill="#f5e6e8" opacity="0.05"/>
-  <circle cx="54.0" cy="103.1" r="5"  fill="#f5e6e8" opacity="0.15"/>
-  <circle cx="54.0" cy="103.1" r="2.2" fill="#ffffff" opacity="0.9"/>
-  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#d4a0a0" letter-spacing="2">july · day 25/31 · 81% complete</text>
+  <circle cx="61.5" cy="151.8" r="10" fill="#f5e6e8" opacity="0.05"/>
+  <circle cx="61.5" cy="151.8" r="5"  fill="#f5e6e8" opacity="0.15"/>
+  <circle cx="61.5" cy="151.8" r="2.2" fill="#ffffff" opacity="0.9"/>
+  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#d4a0a0" letter-spacing="2">july · day 26/31 · 84% complete</text>
 </svg>
