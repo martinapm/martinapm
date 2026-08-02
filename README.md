@@ -47,7 +47,7 @@
 <br><br>
 
 <!-- COUNTER:START -->
-[![Days active](https://img.shields.io/badge/Active%20since%20Mar%2020%2C%202025-Day%20500-f5e6e8?style=for-the-badge&labelColor=6b2d3e&color=1a0505)](https://github.com/martinapm)
+[![Days active](https://img.shields.io/badge/Active%20since%20Mar%2020%2C%202025-Day%20501-f5e6e8?style=for-the-badge&labelColor=6b2d3e&color=1a0505)](https://github.com/martinapm)
 <!-- COUNTER:END -->
 
 </div>
