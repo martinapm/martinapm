@@ -115,9 +115,15 @@
     <path d="M76.0,227.6 L75.0,228.8 L74.0,229.9 L73.1,231.1 L72.2,232.2 L71.3,233.4 L70.5,234.5 L69.6,235.7 L68.8,236.8" stroke="rgb(70, 16, 22)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M68.8,236.8 L67.9,237.9 L67.2,239.1 L66.4,240.2 L65.6,241.4 L64.9,242.5 L64.2,243.7 L63.4,244.8 L62.8,245.9" stroke="rgb(71, 17, 24)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M62.8,245.9 L62.1,247.1 L61.5,248.2 L60.8,249.3 L60.2,250.5 L59.6,251.6 L59.1,252.7 L58.5,253.8 L58.0,254.9" stroke="rgb(73, 19, 26)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58.0,254.9 L57.5,256.0 L57.0,257.2 L56.5,258.3 L56.1,259.4 L55.7,260.5 L55.2,261.5 L54.9,262.6 L54.5,263.7" stroke="rgb(74, 20, 28)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M54.5,263.7 L54.1,264.8 L53.8,265.9 L53.5,266.9 L53.2,268.0 L52.9,269.0 L52.7,270.1 L52.4,271.1 L52.2,272.2" stroke="rgb(76, 21, 29)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M52.2,272.2 L52.0,273.2 L51.9,274.2 L51.7,275.2 L51.6,276.2 L51.5,277.2 L51.4,278.2 L51.3,279.2 L51.3,280.2" stroke="rgb(77, 22, 31)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51.3,280.2 L51.2,281.1 L51.2,282.1 L51.2,283.0 L51.2,284.0 L51.3,284.9 L51.4,285.8 L51.4,286.7 L51.5,287.6" stroke="rgb(79, 23, 33)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51.5,287.6 L51.7,288.5 L51.8,289.4 L52.0,290.3 L52.2,291.2 L52.4,292.0 L52.6,292.9 L52.8,293.7 L53.1,294.5" stroke="rgb(80, 24, 35)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M53.1,294.5 L53.3,295.3 L53.6,296.1 L54.0,296.9 L54.3,297.7 L54.6,298.4 L55.0,299.2 L55.4,299.9 L55.8,300.7" stroke="rgb(82, 25, 37)" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <circle cx="62.1" cy="247.1" r="10" fill="#f5e6e8" opacity="0.05"/>
-  <circle cx="62.1" cy="247.1" r="5"  fill="#f5e6e8" opacity="0.15"/>
-  <circle cx="62.1" cy="247.1" r="2.2" fill="#ffffff" opacity="0.9"/>
-  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#d4a0a0" letter-spacing="2">august · day 5/31 · 16% complete</text>
+  <circle cx="53.6" cy="296.1" r="10" fill="#f5e6e8" opacity="0.05"/>
+  <circle cx="53.6" cy="296.1" r="5"  fill="#f5e6e8" opacity="0.15"/>
+  <circle cx="53.6" cy="296.1" r="2.2" fill="#ffffff" opacity="0.9"/>
+  <text x="200" y="390" text-anchor="middle" font-family="monospace" font-size="9" fill="#d4a0a0" letter-spacing="2">august · day 6/31 · 19% complete</text>
 </svg>
